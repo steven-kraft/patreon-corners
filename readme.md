@@ -6,7 +6,7 @@ You can build your own with the [SVGs](https://github.com/steven-kraft/patreon-c
 
 ### Preview
 
-![](./svg/patreon-corner-left.svg) Get a full preview on the [webpage](https://steven-kraft.com/patreon-corners/).![](./svg/patreon-corner-right.svg) 
+![](./svg/patreon-corner-left.svg)Get a full preview on the [webpage](https://steven-kraft.com/patreon-corners/).![](./svg/patreon-corner-right.svg) 
 
 
 ### License/Acknowledgements
