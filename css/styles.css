@@ -1,6 +1,7 @@
 /**
- * GitHub Corners, page css
- * Author: Tim Holman
+ * Patreon Corners, page css
+ * Author: Steven Kraft
+ * Fork of Github Corners by Tim Holman
  */
 
 * {
@@ -72,44 +73,14 @@ p {
     font-size: 10px;
 }
 
-.github-corner:hover .octo-arm {
-  animation: octocat-wave 560ms ease-in-out;
+.patreon-corner:hover svg polygon {
+  fill:#e7513b;
+  transition: fill 0.5s;
 }
 
-@keyframes octocat-wave {
-    0% {
-        transform: rotate(0deg);
-    }
-
-    20% {
-        transform: rotate(-25deg);
-    }
-
-    40% {
-        transform: rotate(10deg);
-    }
-
-    60% {
-        transform: rotate(-25deg);
-    }
-
-    80% {
-        transform: rotate(10deg);
-    }
-
-    100% {
-        transform: rotate(0deg);
-    }
-}
-
-@media (max-width: 500px) {
-    .github-corner:hover .octo-arm {
-        animation: none;
-    }
-
-    .github-corner .octo-arm {
-        animation: octocat-wave 560ms ease-in-out;
-    }
+.patreon-corner-dark:hover svg polygon {
+  fill:#fafafa;
+  transition: fill 0.5s;
 }
 
 /**
