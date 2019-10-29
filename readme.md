@@ -1,21 +1,20 @@
-### GitHub Corners
+### Patreon Corners
 
-Phew, GitHub is over ten years old now... and is unquestionably synonymous with open source. After 10 years, those GitHub ribbons are more than overdue for a cleaner, more modern alternative. [This is my take.](http://tholman.com/github-corners)
+Inspired by Tim Holman's [GitHub Corners](http://tholman.com/github-corners/) and my own personal needs, Patreon Corners aims to bring that same stylish look to Patreon buttons as well.
 
-By using SVG, these corners can be clean and sharp. Any color, and size. As well as have a little character and interactivity!
+You can build your own with the [SVGs](https://github.com/steven-kraft/patreon-corners/tree/master/svg), copy some of the pre-defined code, or just change the `fill` and `color` values on the main `<svg>` element.
 
-You can build your own with the [SVGs](https://github.com/tholman/github-corners/tree/master/svg), copy some of the pre-defined code, or just change the `fill` and `color` values on the main `<svg>` element.
+### Preview
 
-### Screenshot
+![](./svg/patreon-corner-left.svg) Get a full preview on the [webpage](https://steven-kraft.com/patreon-corners/).![](./svg/patreon-corner-right.svg) 
 
-You can see the page here... but I really recommend [visiting the page](http://tholman.com/github-corners) to see the small animations that really make them come to life.
-
-![Here's the page](https://i.imgur.com/703iLiS.png)
 
 ### License/Acknowledgements
 
-Naturally, these aren't built by GitHub, or endorsed by them.
+These were not created or endorsed by Patreon.
 
-Copyright (c) 2016 Tim Holman - http://tholman.com
+Original corner design idea by [Tim Holman](http://tholman.com)
 
-[The MIT License](https://github.com/tholman/github-corners/blob/master/license.md)
+Copyright (c) 2019 Steven Kraft - https://steven-kraft.com/
+
+[The MIT License](https://github.com/steven-kraft/patreon-corners/blob/master/license.md)
