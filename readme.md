@@ -8,13 +8,6 @@ You can build your own with the [SVGs](https://github.com/steven-kraft/patreon-c
 
 ![](./svg/patreon-corner-left.svg)Get a full preview on the [webpage](https://steven-kraft.com/patreon-corners/).![](./svg/patreon-corner-right.svg) 
 
-
-### License/Acknowledgements
-
-These were not created or endorsed by Patreon.
+---
 
 Original corner design idea by [Tim Holman](http://tholman.com)
-
-Copyright (c) 2019 Steven Kraft - https://steven-kraft.com/
-
-[The MIT License](https://github.com/steven-kraft/patreon-corners/blob/master/license.md)
